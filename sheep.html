@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#2F476F" />
+    <meta name="description" content="Meet the little sheep." />
+    <link rel="icon" href="/favicon.ico?v=20261114-3" sizes="any" />
+    <link rel="icon" type="image/png" href="/favicon.png?v=20261114-3" />
+    <title>Little Sheep · by Lan</title>
+    <style>
+      body { background: #2f476f; }
+      .curve-cover { position: fixed; inset: 0; z-index: 1000; width: 100%; height: 100%; fill: #a8b5cc; pointer-events: none; visibility: hidden; }
+    </style>
+    <script type="module" crossorigin src="/assets/translate-toggle-B1GDjNc6.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/translate-toggle-Aonb-KJW.css">
+  </head>
+  <body class="sheep-page">
+    <a class="home-link" href="./" aria-label="Back to home">
+      <span class="home-link-art" data-press-art><svg viewBox="0 0 44 30" width="40" height="30" fill="none" stroke="#fefdfd" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M37 15 C29 14 21 16 6 15 M17 5 C13 9 10 12 6 15 C10 18 13 22 17 25" /></svg></span>
+    </a>
+    <button
+      class="translate-toggle"
+      id="translate-toggle"
+      type="button"
+      role="switch"
+      aria-label="Translate"
+      aria-checked="false"
+      data-state="off"
+      title="Translate"
+      style="background:transparent;border:0"
+    >
+      <svg class="translate-toggle-art" viewBox="0 0 68 36" aria-hidden="true">
+        <path class="translate-toggle-track" id="translate-toggle-track" />
+        <path class="translate-toggle-knob" id="translate-toggle-knob" />
+      </svg>
+    </button>
+    <button class="light-switch" id="light-switch" type="button" role="switch" aria-label="Light switch" aria-checked="false" data-state="day" style="background:transparent;border:0">
+      <svg class="light-switch-art" viewBox="0 0 90 190" width="76" height="190" fill="none" stroke="#fefdfd" stroke-width="2.05" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path class="light-cord" id="light-cord" d="M45 -8 C42 29 49 59 43 87 S49 119 44 136" />
+        <path class="light-pull-ring" id="light-pull-ring" d="M44 136 C39 141 38 148 40 153 C43 158 48 155 50 150 C52 145 49 139 44 136 Z" />
+      </svg>
+    </button>
+    <main class="sheep-shell">
+      <div class="sheep-viewport">
+        <div class="sheep-board" id="sheep-board" aria-label="A field of little sheep. Hover to reveal and hear them; click or touch to enable sound if your browser blocks playback.">
+          <img class="sheep-base" src="/assets/sheep-base-hd-2f476f.png" alt="Thirty-six white little sheep on a deep blue background" draggable="false" />
+          <div class="face-layer" id="face-layer" aria-hidden="true"></div>
+        </div>
+      </div>
+    </main>
+    <svg class="curve-cover" aria-hidden="true" viewBox="0 0 100 100" preserveAspectRatio="none"><path d="M0 100H100V0H0Z" /></svg>
+  </body>
+</html>

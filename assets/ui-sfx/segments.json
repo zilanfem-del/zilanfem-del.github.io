@@ -1,0 +1,52 @@
+{
+  "format": "mono PCM WAV, 44100 Hz, 16-bit",
+  "source_files": [
+    "click-1.mp3",
+    "click-2.mp3",
+    "click-3.mp3"
+  ],
+  "clips": [
+    {
+      "file": "translate-on.wav",
+      "source": "click-1.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 0.085,
+      "role": "Cute digital pop, first hit"
+    },
+    {
+      "file": "translate-off.wav",
+      "source": "click-1.mp3",
+      "start_seconds": 0.44,
+      "end_seconds": 0.555,
+      "role": "Cute digital pop, second hit"
+    },
+    {
+      "file": "enter.wav",
+      "source": "click-2.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 0.075,
+      "role": "Tap pop, first hit"
+    },
+    {
+      "file": "return.wav",
+      "source": "click-2.mp3",
+      "start_seconds": 0.535,
+      "end_seconds": 0.645,
+      "role": "Reverse tap pop, second hit"
+    },
+    {
+      "file": "sound-enable.wav",
+      "source": "click-3.mp3",
+      "start_seconds": 0.0,
+      "end_seconds": 0.07,
+      "role": "Plop, first hit"
+    },
+    {
+      "file": "sound-ready.wav",
+      "source": "click-3.mp3",
+      "start_seconds": 0.075,
+      "end_seconds": 0.145,
+      "role": "Button click/beep, second hit"
+    }
+  ]
+}

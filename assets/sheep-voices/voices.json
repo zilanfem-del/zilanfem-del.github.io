@@ -1,0 +1,906 @@
+{
+  "format": "mono WAV, 48000 Hz (MOSS TTS output)",
+  "source": "Sheep_Hover_Audio_MOSS (progress.csv / voice_assignments.csv, 2026-11-15)",
+  "sheep": {
+    "0-0": {
+      "character": "Fluttershy",
+      "clips": [
+        {
+          "file": "Sheep_01_Hover_1.wav",
+          "text": "Who you?",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_01_Hover_2.wav",
+          "text": "You new lady?",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_01_Hover_3.wav",
+          "text": "You smell like soap.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_01_Hover_4.wav",
+          "text": "Okay. I love you.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "0-1": {
+      "character": "Twilight",
+      "clips": [
+        {
+          "file": "Sheep_02_Hover_1.wav",
+          "text": "Nice coat, miss.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_02_Hover_2.wav",
+          "text": "Pockets too?",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_02_Hover_3.wav",
+          "text": "Pockets mean snacks.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_02_Hover_4.wav",
+          "text": "Me hungry. Share?",
+          "emotion": "calm"
+        }
+      ]
+    },
+    "0-2": {
+      "character": "Pinkie",
+      "clips": [
+        {
+          "file": "Sheep_03_Hover_1.wav",
+          "text": "Your hands look warm.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_03_Hover_2.wav",
+          "text": "I check with my face.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_03_Hover_3.wav",
+          "text": "Oh. That feels nice.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_03_Hover_4.wav",
+          "text": "More pets, soft-hands.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "0-3": {
+      "character": "Rainbow",
+      "clips": [
+        {
+          "file": "Sheep_04_Hover_1.wav",
+          "text": "Your plan worked.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_04_Hover_2.wav",
+          "text": "You’re clever, lady.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_04_Hover_3.wav",
+          "text": "My plan went wrong.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_04_Hover_4.wav",
+          "text": "Boss lady, fix mine?",
+          "emotion": "calm"
+        }
+      ]
+    },
+    "0-4": {
+      "character": "Rarity",
+      "clips": [
+        {
+          "file": "Sheep_05_Hover_1.wav",
+          "text": "Your voice sounds nice, gal.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_05_Hover_2.wav",
+          "text": "Angry thoughts went away.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_05_Hover_3.wav",
+          "text": "Now I need a laugh.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_05_Hover_4.wav",
+          "text": "One more for my collection.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "0-5": {
+      "character": "Applejack",
+      "clips": [
+        {
+          "file": "Sheep_06_Hover_1.wav",
+          "text": "Your shoes go tap-tap, human.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_06_Hover_2.wav",
+          "text": "I heard you coming.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_06_Hover_3.wav",
+          "text": "You brought the sunshine.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_06_Hover_4.wav",
+          "text": "The whole room got better.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-0": {
+      "character": "Apple_Bloom",
+      "clips": [
+        {
+          "file": "Sheep_07_Hover_1.wav",
+          "text": "You smiled, pretty one.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_07_Hover_2.wav",
+          "text": "My knees went wobbly.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_07_Hover_3.wav",
+          "text": "Then you looked serious.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_07_Hover_4.wav",
+          "text": "Still pretty. No fair.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-1": {
+      "character": "Scootaloo",
+      "clips": [
+        {
+          "file": "Sheep_08_Hover_1.wav",
+          "text": "You opened the stuck door.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_08_Hover_2.wav",
+          "text": "Strong, big one.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_08_Hover_3.wav",
+          "text": "Then you closed it gently.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_08_Hover_4.wav",
+          "text": "Strong and gentle. Best kind.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-2": {
+      "character": "Sweetie_Belle",
+      "clips": [
+        {
+          "file": "Sheep_09_Hover_1.wav",
+          "text": "Who that?",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_09_Hover_2.wav",
+          "text": "Oh. New hat.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_09_Hover_3.wav",
+          "text": "Where my wool?",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_09_Hover_4.wav",
+          "text": "Still on me. Nice hat.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-3": {
+      "character": "Starlight",
+      "clips": [
+        {
+          "file": "Sheep_10_Hover_1.wav",
+          "text": "Rain soaked my wool.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_10_Hover_2.wav",
+          "text": "You opened your umbrella.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_10_Hover_3.wav",
+          "text": "My wool stayed dry.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_10_Hover_4.wav",
+          "text": "You think ahead, lady.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-4": {
+      "character": "Fluttershy",
+      "clips": [
+        {
+          "file": "Sheep_11_Hover_1.wav",
+          "text": "You hummed one note.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_11_Hover_2.wav",
+          "text": "I came closer.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_11_Hover_3.wav",
+          "text": "Then birds joined too.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_11_Hover_4.wav",
+          "text": "You sing real nice, gal.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "1-5": {
+      "character": "Twilight",
+      "clips": [
+        {
+          "file": "Sheep_12_Hover_1.wav",
+          "text": "You drew my nose.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_12_Hover_2.wav",
+          "text": "My nose looks too big.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_12_Hover_3.wav",
+          "text": "Then you drew snacks.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_12_Hover_4.wav",
+          "text": "Best artist, gal.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "2-0": {
+      "character": "Pinkie",
+      "clips": [
+        {
+          "file": "Sheep_13_Hover_1.wav",
+          "text": "You gave me a flower.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_13_Hover_2.wav",
+          "text": "I nearly ate it.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_13_Hover_3.wav",
+          "text": "Now it’s on my head.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_13_Hover_4.wav",
+          "text": "Pretty lady. Pretty me.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "2-1": {
+      "character": "Rainbow",
+      "clips": [
+        {
+          "file": "Sheep_14_Hover_1.wav",
+          "text": "You read out loud.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_14_Hover_2.wav",
+          "text": "I stopped chewing.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_14_Hover_3.wav",
+          "text": "The story got scary.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_14_Hover_4.wav",
+          "text": "You sound brave, ma’am.",
+          "emotion": "calm"
+        }
+      ]
+    },
+    "2-2": {
+      "character": "Rarity",
+      "clips": [
+        {
+          "file": "Sheep_15_Hover_1.wav",
+          "text": "The fence had a hole.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_15_Hover_2.wav",
+          "text": "You brought a hammer.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_15_Hover_3.wav",
+          "text": "The hole is gone.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_15_Hover_4.wav",
+          "text": "Best fixer, lady.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "2-3": {
+      "character": "Applejack",
+      "clips": [
+        {
+          "file": "Sheep_16_Hover_1.wav",
+          "text": "You baked bread, human.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_16_Hover_2.wav",
+          "text": "The whole field smelled it.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_16_Hover_3.wav",
+          "text": "I came very fast.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_16_Hover_4.wav",
+          "text": "You’re a good baker.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "2-4": {
+      "character": "Apple_Bloom",
+      "clips": [
+        {
+          "file": "Sheep_17_Hover_1.wav",
+          "text": "You lifted your camera.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_17_Hover_2.wav",
+          "text": "I did my noble pose.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_17_Hover_3.wav",
+          "text": "You found my good side.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_17_Hover_4.wav",
+          "text": "Good eye, miss.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "2-5": {
+      "character": "Scootaloo",
+      "clips": [
+        {
+          "file": "Sheep_18_Hover_1.wav",
+          "text": "You put on some music.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_18_Hover_2.wav",
+          "text": "My hooves got ideas.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_18_Hover_3.wav",
+          "text": "You danced too.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_18_Hover_4.wav",
+          "text": "Best dance partner, gal.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "3-0": {
+      "character": "Sweetie_Belle",
+      "clips": [
+        {
+          "file": "Sheep_19_Hover_1.wav",
+          "text": "Wind bit my ears.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_19_Hover_2.wav",
+          "text": "You gave me a scarf.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_19_Hover_3.wav",
+          "text": "Ears stopped complaining.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_19_Hover_4.wav",
+          "text": "You’re so kind, dear.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "3-1": {
+      "character": "Starlight",
+      "clips": [
+        {
+          "file": "Sheep_20_Hover_1.wav",
+          "text": "You lost your shiny key.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_20_Hover_2.wav",
+          "text": "My nose found it.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_20_Hover_3.wav",
+          "text": "You called me clever.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_20_Hover_4.wav",
+          "text": "You’re clever too, human.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "3-2": {
+      "character": "Fluttershy",
+      "clips": [
+        {
+          "file": "Sheep_21_Hover_1.wav",
+          "text": "That jump looked too big.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_21_Hover_2.wav",
+          "text": "You said, try small hops.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_21_Hover_3.wav",
+          "text": "I did three hops.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_21_Hover_4.wav",
+          "text": "You’re a good coach.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "3-3": {
+      "character": "Twilight",
+      "clips": [
+        {
+          "file": "Sheep_22_Hover_1.wav",
+          "text": "I ate your paper.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_22_Hover_2.wav",
+          "text": "You looked so sad.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_22_Hover_3.wav",
+          "text": "I brought you a leaf.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_22_Hover_4.wav",
+          "text": "Forgive me, pretty lady?",
+          "emotion": "sad"
+        }
+      ]
+    },
+    "3-4": {
+      "character": "Pinkie",
+      "clips": [
+        {
+          "file": "Sheep_23_Hover_1.wav",
+          "text": "I hid behind a bush.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_23_Hover_2.wav",
+          "text": "You found me fast.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_23_Hover_3.wav",
+          "text": "You know all my spots.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_23_Hover_4.wav",
+          "text": "Best seeker, buddy.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "3-5": {
+      "character": "Rainbow",
+      "clips": [
+        {
+          "file": "Sheep_24_Hover_1.wav",
+          "text": "You were crying, dear.",
+          "emotion": "sad"
+        },
+        {
+          "file": "Sheep_24_Hover_2.wav",
+          "text": "I put my head here.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_24_Hover_3.wav",
+          "text": "Then you smiled a little.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_24_Hover_4.wav",
+          "text": "That smile suits you.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "4-0": {
+      "character": "Rarity",
+      "clips": [
+        {
+          "file": "Sheep_25_Hover_1.wav",
+          "text": "Your keyboard went click-click.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_25_Hover_2.wav",
+          "text": "I sat on the cable.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_25_Hover_3.wav",
+          "text": "You finished your work.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_25_Hover_4.wav",
+          "text": "We make a good team.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "4-1": {
+      "character": "Applejack",
+      "clips": [
+        {
+          "file": "Sheep_26_Hover_1.wav",
+          "text": "You turned off the light.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_26_Hover_2.wav",
+          "text": "The dark felt scary.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_26_Hover_3.wav",
+          "text": "You left a tiny star.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_26_Hover_4.wav",
+          "text": "Good night, star lady.",
+          "emotion": "calm"
+        }
+      ]
+    },
+    "4-2": {
+      "character": "Apple_Bloom",
+      "clips": [
+        {
+          "file": "Sheep_27_Hover_1.wav",
+          "text": "You sliced a red apple.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_27_Hover_2.wav",
+          "text": "My nose woke up.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_27_Hover_3.wav",
+          "text": "You gave me a piece.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_27_Hover_4.wav",
+          "text": "Best morning, pal.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "4-3": {
+      "character": "Scootaloo",
+      "clips": [
+        {
+          "file": "Sheep_28_Hover_1.wav",
+          "text": "Your new boots squeaked, gal.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_28_Hover_2.wav",
+          "text": "I followed the squeak.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_28_Hover_3.wav",
+          "text": "We crossed the whole field.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_28_Hover_4.wav",
+          "text": "You’ve got good boots.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "4-4": {
+      "character": "Sweetie_Belle",
+      "clips": [
+        {
+          "file": "Sheep_29_Hover_1.wav",
+          "text": "You sheared my heavy wool.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_29_Hover_2.wav",
+          "text": "I felt cooler right away.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_29_Hover_3.wav",
+          "text": "Then the breeze came.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_29_Hover_4.wav",
+          "text": "That’s magic, ma’am.",
+          "emotion": "surprised"
+        }
+      ]
+    },
+    "4-5": {
+      "character": "Starlight",
+      "clips": [
+        {
+          "file": "Sheep_30_Hover_1.wav",
+          "text": "You held my hoof.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_30_Hover_2.wav",
+          "text": "The vet’s needle stung.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_30_Hover_3.wav",
+          "text": "You stayed right here.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_30_Hover_4.wav",
+          "text": "You made me brave, human.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "5-0": {
+      "character": "Fluttershy",
+      "clips": [
+        {
+          "file": "Sheep_31_Hover_1.wav",
+          "text": "I chased a blue butterfly.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_31_Hover_2.wav",
+          "text": "You said, watch the creek.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_31_Hover_3.wav",
+          "text": "Splash. You pulled me out.",
+          "emotion": "afraid"
+        },
+        {
+          "file": "Sheep_31_Hover_4.wav",
+          "text": "Good save, captain.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "5-1": {
+      "character": "Twilight",
+      "clips": [
+        {
+          "file": "Sheep_32_Hover_1.wav",
+          "text": "You went away yesterday.",
+          "emotion": "melancholic"
+        },
+        {
+          "file": "Sheep_32_Hover_2.wav",
+          "text": "The gate clicked today.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_32_Hover_3.wav",
+          "text": "My legs ran first.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_32_Hover_4.wav",
+          "text": "Welcome home, best friend.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "5-2": {
+      "character": "Pinkie",
+      "clips": [
+        {
+          "file": "Sheep_33_Hover_1.wav",
+          "text": "Me hungry.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_33_Hover_2.wav",
+          "text": "Is it breakfast?",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_33_Hover_3.wav",
+          "text": "You look like toast.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_33_Hover_4.wav",
+          "text": "Still love you.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "5-3": {
+      "character": "Rainbow",
+      "clips": [
+        {
+          "file": "Sheep_34_Hover_1.wav",
+          "text": "Who were you again?",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_34_Hover_2.wav",
+          "text": "Nice knees, human.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_34_Hover_3.wav",
+          "text": "I forgot my question.",
+          "emotion": "surprised"
+        },
+        {
+          "file": "Sheep_34_Hover_4.wav",
+          "text": "Hello, knees.",
+          "emotion": "calm"
+        }
+      ]
+    },
+    "5-4": {
+      "character": "Rarity",
+      "clips": [
+        {
+          "file": "Sheep_35_Hover_1.wav",
+          "text": "Your elbow is shiny.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_35_Hover_2.wav",
+          "text": "Baa.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_35_Hover_3.wav",
+          "text": "I like Tuesday.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_35_Hover_4.wav",
+          "text": "You’re good, gal.",
+          "emotion": "happy"
+        }
+      ]
+    },
+    "5-5": {
+      "character": "Applejack",
+      "clips": [
+        {
+          "file": "Sheep_36_Hover_1.wav",
+          "text": "I’m sleepy now.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_36_Hover_2.wav",
+          "text": "Your lap is flat.",
+          "emotion": "calm"
+        },
+        {
+          "file": "Sheep_36_Hover_3.wav",
+          "text": "Flat is good.",
+          "emotion": "happy"
+        },
+        {
+          "file": "Sheep_36_Hover_4.wav",
+          "text": "Five more minutes.",
+          "emotion": "calm"
+        }
+      ]
+    }
+  }
+}
